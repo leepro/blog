@@ -1,4 +1,4 @@
-blog
+Blog
 ====
 
-My personal web site
+My personal web site using GitHub Pages hosting.
